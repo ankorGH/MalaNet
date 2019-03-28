@@ -12,31 +12,31 @@ I started to explore computer vision with deep learning about three (3) months a
 
 I obtained the dataset from [kaggle](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) which contains 27558 images in total for both infected and uninfected cells.
 
-<div style="display:flex;justify-content:space-around">
-    <div >
+<div>
+    <div  style="display:inline-block">
         <span style="display:block">Infected</span>
         <img src="./images/infected_1.png">
     </div>
-    <div>
+    <div style="display:inline-block;margin:20px;">
         <span style="display:block">Uninfected</span>
         <img src="./images/uninfected_1.png">
     </div>
-    <div>
+    <div style="display:inline-block">
         <span style="display:block">Infected</span>
         <img src="./images/infected_2.png">
     </div>
 </div>
 
-<div style="display:flex;justify-content:space-around">
-    <div >
+<div>
+    <div style="display:inline-block">
         <span style="display:block">Infected</span>
         <img src="./images/uninfected_2.png">
     </div>
-    <div>
+    <div style="display:inline-block;margin:20px;">
         <span style="display:block">Infected</span>
         <img src="./images/infected_3.png">
     </div>
-    <div>
+    <div style="display:inline-block">
         <span style="display:block">Infected</span>
         <img src="./images/uninfected_3.png">
     </div>
